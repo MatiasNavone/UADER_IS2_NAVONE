@@ -1,6 +1,6 @@
 # Repositorio de Ingeniería de Software II
 ## Proyecto Académico - UADER
-### Alumno: Matías Valentín Navone
+### Alumno: Matías Navone
 
 Este repositorio contiene el TP1 de la cátedra de Ingeniería de Software II.
 

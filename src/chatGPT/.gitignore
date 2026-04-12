@@ -1,0 +1,12 @@
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Cache de ruff
+.ruff_cache/
+
+# Reporte de cobertura HTML (se puede regenerar)
+htmlcov/
+
+# Base de datos de coverage (se puede regenerar)
+.coverage
